@@ -2,7 +2,7 @@
 A collection of my kaggle comptetion code:
 
 1. House Prices - Advance Regression Techniques: Predicting house prices on Ames(Iowa) Housing Dataset with 79 features.
-2. Digit Recognizer - Classic digit recognition/classification on MNIST dataset 
+2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Classic digit recognition/classification on MNIST dataset 
 3. NLP with Disaster Tweets - Predict which Tweets are about real disasters and which ones are not
  
 Rankings:
