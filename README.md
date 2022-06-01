@@ -1,9 +1,9 @@
 # Kaggle_competitions
 A collection of my kaggle comptetion code:
 
-1. House Prices - Advance Regression Techniques: Predicting house prices on Ames(Iowa) Housing Dataset with 79 features.
+1. House Prices (sale-price-prediction-using-gradient-boosting.ipynb) - Advance Regression Techniques: Predicting house prices on Ames(Iowa) Housing Dataset with 79 features.
 2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Classic digit recognition/classification on MNIST dataset 
-3. NLP with Disaster Tweets - Predict which Tweets are about real disasters and which ones are not
+3. NLP with Disaster Tweets (nlp-disaster-tweets.ipynb) - Predict which Tweets are about real disasters and which ones are not
  
 Rankings:
 - Digit Recognizer - 612/1886 with a 0.98 accuracy
