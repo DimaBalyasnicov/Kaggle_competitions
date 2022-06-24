@@ -1,13 +1,12 @@
 # Kaggle_competitions
-A collection of my kaggle comptetion code:
+Код соревнований с платформы Kaggle:
 
-1. House Prices (sale-price-prediction-using-gradient-boosting.ipynb) - Advance Regression Techniques: Predicting house prices on Ames(Iowa) Housing Dataset with 79 features.
-2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Classic digit recognition/classification on MNIST dataset 
-3. NLP with Disaster Tweets (nlp-disaster-tweets.ipynb) - Predict which Tweets are about real disasters and which ones are not. Important thing to note, i didnt use any pretrained models, like BERT and all of its modification.
+1. House Prices - Advance Regression Techniques (sale-price-prediction-using-gradient-boosting.ipynb): Предсказание цены дома на датасете Ames Housing(Iowa).
+2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Классическая задача распознования рукописных цифр на датасете MNIST. 
+3. NLP with Disaster Tweets (nlp-disaster-tweets.ipynb) - Распознать в каких твитах говорится о настоящих катастрофах а в каких нет. В данном соревновании я специально не использовал готовые, предобученные модели (Transfer learning) вроде Bert и его вариаций, хотелось вручную сделать похожую модель в миниатюре.
  
 Rankings:
-- Digit Recognizer - 612/1886 with a 0.98 accuracy
-- NLP with Disaster Tweets - 652/965 with a 0.78 accuracy
-- House Prices - 2021/4374 with a 0.14 RMSE between the logarithm of the predicted value and the logarithm of the observed sales price
+- Digit Recognizer - 0.98 accuracy, 612 место из 1886.
+- NLP with Disaster Tweets - 0.78 Accuracy,  652 место  из 965. Неплохо для простой модели в 2 скрытых ряда. 
+- House Prices - 0.14 RMSE между логарифмом предсказанной величины и тестовой(логарифмы нужны чтобы ошибка в дешёвых и дорогих домах влияла одинаково) 2021 место из 4374
 
-Curently working on Facial Key Point Detection competition
