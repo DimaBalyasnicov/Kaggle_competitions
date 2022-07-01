@@ -11,5 +11,5 @@ https://www.kaggle.com/competitions/nlp-getting-started
 Результаты после оценки тестовых данных Kaggle:
 - Digit Recognizer - 0.98 Accuracy
 - NLP with Disaster Tweets - 0.78 Accuracy, неплохо для модели в 3 скрытых ряда
-- House Prices - 0.14 (или 14% MAPE)
+- House Prices - 0.14 (или 14%) MAPE
 
