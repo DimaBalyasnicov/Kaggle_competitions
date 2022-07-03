@@ -5,7 +5,7 @@
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Классическая задача распознования рукописных цифр на датасете MNIST.
 https://www.kaggle.com/competitions/digit-recognizer
-3. NLP with Disaster Tweets (nlp-disaster-tweets.ipynb) - Распознать в каких твитах говорится о настоящих катастрофах а в каких нет. В данном соревновании я специально не использовал готовые, предобученные модели (Transfer learning) вроде Bert и его вариаций, хотелось вручную проделать процесс NLU - токенизация и т.д.
+3. NLP with Disaster Tweets (nlp-disaster-tweets.ipynb) - Распознать в каких твитах говорится о настоящих катастрофах а в каких нет. В данном соревновании я специально не использовал предобученные модели вроде Bert и его вариаций, хотелось вручную проделать процесс NLU - очистка, токенизация и т.д.
 https://www.kaggle.com/competitions/nlp-getting-started
  
 Результаты после оценки тестовых данных Kaggle:
