@@ -1,7 +1,7 @@
 # Kaggle_competitions
 Код соревнований с платформы Kaggle, так как сам Kaggle не позваляет мне подвердить аккаунт и показывать свой код там, храню его здесь:
 
-1. House Prices - (housing-price-prediction-using-gb.ipynb): Предсказание цены дома на датасете Ames Housing(Iowa).
+1. House Prices - (housing_price_prediction_using_gradient_boosting.ipynb): Предсказание цены дома на датасете Ames Housing(Iowa).
 https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
 2. Digit Recognizer (digit-recognition-with-cnn.ipynb) - Классическая задача распознования рукописных цифр на датасете MNIST.
 https://www.kaggle.com/competitions/digit-recognizer
